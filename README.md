@@ -4,7 +4,6 @@
 The Chatbot Project is designed to simulate a conversational agent that can interact with users through text-based inputs. It leverages predefined rules and pattern matching techniques to understand user queries and provide appropriate responses. The chatbot is built to demonstrate fundamental concepts in natural language processing and conversation flow.
 
 ## Features
-Rule-Based Responses:
 
 #### Predefined Rules: 
 Uses if-else statements or pattern matching to identify user inputs and respond with predefined answers.
